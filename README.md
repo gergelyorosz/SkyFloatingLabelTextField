@@ -22,7 +22,7 @@ Up until version 1.2 Swift 2.2 and 2.3 compatible (and there is a Swift 2.3 bran
 From version 2.0 onwards only compatible with Swift 3.
 Please be mindful of the version you're using.
 
-## Usage
+## Usage 
 
 To start using the component add it to your project using CocoaPods, Carthage or manually as per the [Installation](#installation) section.
 
